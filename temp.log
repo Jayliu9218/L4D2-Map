@@ -1,0 +1,4097 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (352.00 -192.00 -16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1719 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 12
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2503 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 18
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2503 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 18
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2503 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 18
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 0.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2503 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 18
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (112.00 -76.63 8.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2503 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 18
+Reduced 2 texdatas to 2 (39 bytes to 39)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+Patching WVT material: maps/temp/brick/blend_brick_brick01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (58.00 45.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (575 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6 texinfos to 3
+Reduced 2 texdatas to 1 (72 bytes to 46)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (58.00 45.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (577 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (16 bytes to 16)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (58.00 45.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (577 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (16 bytes to 16)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (58.00 45.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (577 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (16 bytes to 16)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (111.12 65.66 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (577 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (16 bytes to 16)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (111.12 65.66 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (577 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 3
+Reduced 1 texdatas to 1 (16 bytes to 16)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (107.00 -4.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1950 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10 texinfos to 8
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2438 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 16 texinfos to 14
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2438 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 16 texinfos to 14
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2342 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+10 faces
+1810 square feet [260718.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+10 patches before subdivision
+262 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12748, max 110
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  42/65536         840/1310720  ( 0.1%) 
+vertexes                33/65536         396/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   10/65536         560/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               10/65536          20/131072   ( 0.0%) 
+leafbrushes             10/65536          20/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               64/512000        256/2048000  ( 0.0%) 
+edges                   45/256000        180/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]        6040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         462/393216   ( 0.1%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2342/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (107.00 -4.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2374 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 12
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2390 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 4
+Reduced 1 texdatas to 1 (22 bytes to 22)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+10 faces
+1810 square feet [260718.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+10 patches before subdivision
+262 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12748, max 110
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0000 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              38/65536         304/524288   ( 0.1%) 
+planes                  50/65536        1000/1310720  ( 0.1%) 
+vertexes                34/65536         408/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 4/12288         288/884736   ( 0.0%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   10/65536         560/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               10/65536          20/131072   ( 0.0%) 
+leafbrushes             10/65536          20/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               64/512000        256/2048000  ( 0.0%) 
+edges                   45/256000        180/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]        6040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         462/393216   ( 0.1%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2390/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (107.00 -4.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5192 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 35
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (107.00 -4.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5192 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 35
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (107.00 -4.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (155.00 5.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (155.00 5.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (155.00 5.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating (178.00 -36.00 68.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 37
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 17.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 17.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 17.00 8.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 17.00 8.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5256 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 38 texinfos to 36
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 17.00 8.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4912 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 34
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 18.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4912 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 34
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (63.00 18.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4912 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 34
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (109.00 -4.00 12.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3672 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 26 texinfos to 19
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (109.00 -14.00 17.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3672 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 26 texinfos to 19
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (109.00 -14.00 17.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3264 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 16
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_survivor_position (109.00 -14.00 9.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3264 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 16
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3088 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 23 texinfos to 8
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   4 portalclusters
+   3 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 16
+Average clusters visible: 4
+Building PAS...
+Average clusters audible: 4
+visdatasize:44  compressed from 64
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+26 faces
+5862 square feet [844176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+26 patches before subdivision
+798 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 56170, max 188
+transfer lists:   0.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  8/8192           96/98304    ( 0.1%) 
+brushsides              48/65536         384/524288   ( 0.1%) 
+planes                  48/65536         960/1310720  ( 0.1%) 
+vertexes                55/65536         660/786432   ( 0.1%) 
+nodes                   21/65536         672/2097152  ( 0.0%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   26/65536        1456/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               10/65536         560/3670016  ( 0.0%) 
+leaves                  23/65536         736/2097152  ( 0.0%) 
+leaffaces               28/65536          56/131072   ( 0.0%) 
+leafbrushes             12/65536          24/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              156/512000        624/2048000  ( 0.0%) 
+edges                   97/256000        388/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              3/32768          30/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices            42/65536          84/131072   ( 0.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       37828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          44/16777216 ( 0.0%) 
+entdata               [variable]         465/393216   ( 0.1%) 
+LDR ambient table       23/65536          92/262144   ( 0.0%) 
+HDR ambient table       23/65536          92/262144   ( 0.0%) 
+LDR leaf ambient         4/65536         112/1835008  ( 0.0%) 
+HDR leaf ambient        23/65536         644/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        3088/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 64
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2304 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 6
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+16 faces
+5883 square feet [847176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 patches before subdivision
+960 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73598, max 209
+transfer lists:   0.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  38/65536         760/1310720  ( 0.1%) 
+vertexes                35/65536         420/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 6/12288         432/884736   ( 0.0%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   16/65536         896/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               16/65536          32/131072   ( 0.0%) 
+leafbrushes             10/65536          20/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               88/512000        352/2048000  ( 0.0%) 
+edges                   57/256000        228/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       31692/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         466/393216   ( 0.1%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2304/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2304 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 6
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+16 faces
+5883 square feet [847176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 patches before subdivision
+960 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73552, max 209
+transfer lists:   0.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  38/65536         760/1310720  ( 0.1%) 
+vertexes                35/65536         420/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 6/12288         432/884736   ( 0.0%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   16/65536         896/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               16/65536          32/131072   ( 0.0%) 
+leafbrushes             10/65536          20/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               88/512000        352/2048000  ( 0.0%) 
+edges                   57/256000        228/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       31692/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         466/393216   ( 0.1%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2304/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2304 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 6
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+16 faces
+5883 square feet [847176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 patches before subdivision
+960 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 73626, max 207
+transfer lists:   0.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  38/65536         760/1310720  ( 0.1%) 
+vertexes                35/65536         420/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 6/12288         432/884736   ( 0.0%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   16/65536         896/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               16/65536          32/131072   ( 0.0%) 
+leafbrushes             10/65536          20/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               88/512000        352/2048000  ( 0.0%) 
+edges                   57/256000        228/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       31692/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         829/393216   ( 0.2%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2304/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2351 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 6
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+   2 portalclusters
+   1 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4
+Average clusters visible: 2
+Building PAS...
+Average clusters audible: 2
+visdatasize:24  compressed from 32
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+14 faces
+5883 square feet [847176.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 patches before subdivision
+678 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 30109, max 159
+transfer lists:   0.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0001 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                  6/8192           72/98304    ( 0.1%) 
+brushsides              36/65536         288/524288   ( 0.1%) 
+planes                  44/65536         880/1310720  ( 0.1%) 
+vertexes                34/65536         408/786432   ( 0.1%) 
+nodes                   17/65536         544/2097152  ( 0.0%) 
+texinfos                 6/12288         432/884736   ( 0.0%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   14/65536         784/3670016  ( 0.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces                6/65536         336/3670016  ( 0.0%) 
+leaves                  19/65536         608/2097152  ( 0.0%) 
+leaffaces               14/65536          28/131072   ( 0.0%) 
+leafbrushes             12/65536          24/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges               82/512000        328/2048000  ( 0.0%) 
+edges                   54/256000        216/1024000  ( 0.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       33332/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]          24/16777216 ( 0.0%) 
+entdata               [variable]         829/393216   ( 0.2%) 
+LDR ambient table       19/65536          76/262144   ( 0.0%) 
+HDR ambient table       19/65536          76/262144   ( 0.0%) 
+LDR leaf ambient         2/65536          56/1835008  ( 0.0%) 
+HDR leaf ambient        19/65536         532/1835008  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        2351/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 30
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4983 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 39 texinfos to 13
+Reduced 3 texdatas to 3 (68 bytes to 68)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  18 portalclusters
+  25 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 168
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 13
+visdatasize:257  compressed from 288
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+77 faces
+35409 square feet [5099011.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+77 patches before subdivision
+2303 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 88369, max 205
+transfer lists:   0.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 13/8192          156/98304    ( 0.2%) 
+brushsides              78/65536         624/524288   ( 0.1%) 
+planes                  78/65536        1560/1310720  ( 0.1%) 
+vertexes               140/65536        1680/786432   ( 0.2%) 
+nodes                   49/65536        1568/2097152  ( 0.1%) 
+texinfos                13/12288         936/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                   77/65536        4312/3670016  ( 0.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               27/65536        1512/3670016  ( 0.0%) 
+leaves                  51/65536        1632/2097152  ( 0.1%) 
+leaffaces               91/65536         182/131072   ( 0.1%) 
+leafbrushes             24/65536          48/131072   ( 0.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges              476/512000       1904/2048000  ( 0.1%) 
+edges                  277/256000       1108/1024000  ( 0.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           138/65536         276/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      123864/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         257/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table       51/65536         204/262144   ( 0.1%) 
+HDR ambient table       51/65536         204/262144   ( 0.1%) 
+LDR leaf ambient        18/65536         504/1835008  ( 0.0%) 
+HDR leaf ambient        51/65536        1428/1835008  ( 0.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]        4983/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 214
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15639 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 72
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  77 portalclusters
+  95 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 919
+Average clusters visible: 11
+Building PAS...
+Average clusters audible: 26
+visdatasize:1968  compressed from 2464
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+300 faces
+49094 square feet [7069574.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+300 patches before subdivision
+6104 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 250053, max 162
+transfer lists:   1.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             246/65536        1968/524288   ( 0.4%) 
+planes                 218/65536        4360/1310720  ( 0.3%) 
+vertexes               469/65536        5628/786432   ( 0.7%) 
+nodes                  151/65536        4832/2097152  ( 0.2%) 
+texinfos                72/12288        5184/884736   ( 0.6%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  300/65536       16800/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              115/65536        6440/3670016  ( 0.2%) 
+leaves                 153/65536        4896/2097152  ( 0.2%) 
+leaffaces              373/65536         746/131072   ( 0.6%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1940/512000       7760/2048000  ( 0.4%) 
+edges                 1121/256000       4484/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           939/65536        1878/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      414992/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1968/16777216 ( 0.0%) 
+entdata               [variable]         830/393216   ( 0.2%) 
+LDR ambient table      153/65536         612/262144   ( 0.2%) 
+HDR ambient table      153/65536         612/262144   ( 0.2%) 
+LDR leaf ambient        77/65536        2156/1835008  ( 0.1%) 
+HDR leaf ambient       153/65536        4284/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]       15639/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 880
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+3 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -218.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15472 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 116
+Reduced 4 texdatas to 4 (101 bytes to 101)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15479 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 70
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  74 portalclusters
+  85 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 710
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 20
+visdatasize:1875  compressed from 2368
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+291 faces
+48913 square feet [7043600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+291 patches before subdivision
+6081 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 249925, max 162
+transfer lists:   1.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 41/8192          492/98304    ( 0.5%) 
+brushsides             246/65536        1968/524288   ( 0.4%) 
+planes                 212/65536        4240/1310720  ( 0.3%) 
+vertexes               447/65536        5364/786432   ( 0.7%) 
+nodes                  148/65536        4736/2097152  ( 0.2%) 
+texinfos                70/12288        5040/884736   ( 0.6%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  291/65536       16296/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              112/65536        6272/3670016  ( 0.2%) 
+leaves                 150/65536        4800/2097152  ( 0.2%) 
+leaffaces              365/65536         730/131072   ( 0.6%) 
+leafbrushes             67/65536         134/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1878/512000       7512/2048000  ( 0.4%) 
+edges                 1091/256000       4364/1024000  ( 0.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             63/32768         630/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           897/65536        1794/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      412556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1875/16777216 ( 0.0%) 
+entdata               [variable]         958/393216   ( 0.2%) 
+LDR ambient table      150/65536         600/262144   ( 0.2%) 
+HDR ambient table      150/65536         600/262144   ( 0.2%) 
+LDR leaf ambient        74/65536        2072/1835008  ( 0.1%) 
+HDR leaf ambient       150/65536        4200/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]       15479/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 848
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+3 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_door_rotating_checkpoint (12.00 -354.00 70.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 119
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -218.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 119
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -218.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -218.00 92.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -218.00 93.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_first_aid_kit (167.00 -203.00 93.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_ammo_spawn (174.99 -220.54 38.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_ammo_spawn (174.99 -220.54 38.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity weapon_ammo_spawn (174.99 -220.54 38.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17263 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 122
+Reduced 5 texdatas to 5 (113 bytes to 113)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17055 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 73
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  78 portalclusters
+  90 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 752
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 20
+visdatasize:1937  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+315 faces
+55283 square feet [7960864.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+315 patches before subdivision
+8023 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 451434, max 216
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 214/65536        4280/1310720  ( 0.3%) 
+vertexes               480/65536        5760/786432   ( 0.7%) 
+nodes                  164/65536        5248/2097152  ( 0.3%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  315/65536       17640/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              121/65536        6776/3670016  ( 0.2%) 
+leaves                 166/65536        5312/2097152  ( 0.3%) 
+leaffaces              399/65536         798/131072   ( 0.6%) 
+leafbrushes             83/65536         166/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2030/512000       8120/2048000  ( 0.4%) 
+edges                 1177/256000       4708/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           945/65536        1890/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      471200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1937/16777216 ( 0.0%) 
+entdata               [variable]         832/393216   ( 0.2%) 
+LDR ambient table      166/65536         664/262144   ( 0.3%) 
+HDR ambient table      166/65536         664/262144   ( 0.3%) 
+LDR leaf ambient        78/65536        2184/1835008  ( 0.1%) 
+HDR leaf ambient       166/65536        4648/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]       17055/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 916
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17055 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 73
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  78 portalclusters
+  90 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 752
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 20
+visdatasize:1937  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+315 faces
+55283 square feet [7960864.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+315 patches before subdivision
+8023 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 451434, max 216
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 46/8192          552/98304    ( 0.6%) 
+brushsides             276/65536        2208/524288   ( 0.4%) 
+planes                 214/65536        4280/1310720  ( 0.3%) 
+vertexes               480/65536        5760/786432   ( 0.7%) 
+nodes                  164/65536        5248/2097152  ( 0.3%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  315/65536       17640/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              121/65536        6776/3670016  ( 0.2%) 
+leaves                 166/65536        5312/2097152  ( 0.3%) 
+leaffaces              399/65536         798/131072   ( 0.6%) 
+leafbrushes             83/65536         166/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2030/512000       8120/2048000  ( 0.4%) 
+edges                 1177/256000       4708/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           945/65536        1890/131072   ( 1.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      471200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1937/16777216 ( 0.0%) 
+entdata               [variable]        1229/393216   ( 0.3%) 
+LDR ambient table      166/65536         664/262144   ( 0.3%) 
+HDR ambient table      166/65536         664/262144   ( 0.3%) 
+LDR leaf ambient        78/65536        2184/1835008  ( 0.1%) 
+HDR leaf ambient       166/65536        4648/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]       17055/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 916
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\left 4 dead 2\left4dead2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18167 bytes)
+Cannot build Physics2 data
+                                                             -----------
+DataLinker total stream size                                     0.0 KiB
+Error! To use model "models/props_unique/guncabinet_no_door.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_unique/guncabinet_no_door.mdl"!
+Error! prop_static using model "models/props_interiors/computer_monitor.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/computer_monitor.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_interiors/books01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/books01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 145 texinfos to 79
+Reduced 4 texdatas to 4 (93 bytes to 93)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+max farz in all env_fog_controller entities: -1.000000 (used for radial vis)
+reading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.prt
+  83 portalclusters
+  96 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 815
+Average clusters visible: 9
+Building PAS...
+Average clusters audible: 20
+visdatasize:2176  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+337 faces
+56127 square feet [8082412.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+337 patches before subdivision
+8159 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 453107, max 216
+transfer lists:   3.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0029 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 49/8192          588/98304    ( 0.6%) 
+brushsides             294/65536        2352/524288   ( 0.4%) 
+planes                 222/65536        4440/1310720  ( 0.3%) 
+vertexes               508/65536        6096/786432   ( 0.8%) 
+nodes                  174/65536        5568/2097152  ( 0.3%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  337/65536       18872/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              130/65536        7280/3670016  ( 0.2%) 
+leaves                 176/65536        5632/2097152  ( 0.3%) 
+leaffaces              423/65536         846/131072   ( 0.6%) 
+leafbrushes             88/65536         176/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2166/512000       8664/2048000  ( 0.4%) 
+edges                 1257/256000       5028/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             68/32768         680/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           957/65536        1914/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      486644/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2176/16777216 ( 0.0%) 
+entdata               [variable]        1759/393216   ( 0.4%) 
+LDR ambient table      176/65536         704/262144   ( 0.3%) 
+HDR ambient table      176/65536         704/262144   ( 0.3%) 
+LDR leaf ambient        83/65536        2324/1835008  ( 0.1%) 
+HDR leaf ambient       176/65536        4928/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+Prop Hull Verts          0/0               0/0        ( 0.0%) 
+Prop Hull Blob           0/0               0/0        ( 0.0%) 
+Prop Hull Lists          0/0               0/0        ( 0.0%) 
+Prop Hulls               0/0               0/0        ( 0.0%) 
+Prop Hull trilist        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1722     ( 0.1%) 
+pakfile               [variable]       86726/0        ( 0.0%) 
+physics               [variable]       18167/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 972
+Writing c:\program files (x86)\steam\steamapps\common\left 4 dead 2\sdk_content\mapsrc\temp.bsp
+0 seconds elapsed
