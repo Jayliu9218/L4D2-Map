@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9520"
-	"mapversion" "150"
+	"mapversion" "160"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "150"
+	"mapversion" "160"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3453,7 +3453,7 @@ world
 		side
 		{
 			"id" "1962"
-			"plane" "(-208 -377 164) (-208 -354 164) (4 -354 164)"
+			"plane" "(-218 -377 164) (-218 -354 164) (4 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 -350.742] 0.25"
 			"vaxis" "[0 -1 0 -64] 0.25"
@@ -3464,7 +3464,7 @@ world
 		side
 		{
 			"id" "1961"
-			"plane" "(-208 -354 7.99999) (-208 -377 7.99999) (4 -377 7.99999)"
+			"plane" "(-218 -354 8) (-218 -377 8) (4 -377 8)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 -350.742] 0.25"
 			"vaxis" "[0 -1 0 -64] 0.25"
@@ -3475,7 +3475,7 @@ world
 		side
 		{
 			"id" "1960"
-			"plane" "(-208 -377 7.99999) (-208 -354 7.99999) (-208 -354 164)"
+			"plane" "(-218 -377 8) (-218 -354 8) (-218 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[0 1 0 64] 0.25"
 			"vaxis" "[0 0 -1 2.62424] 0.25"
@@ -3486,7 +3486,7 @@ world
 		side
 		{
 			"id" "1959"
-			"plane" "(4 -354 7.99999) (4 -377 7.99999) (4 -377 164)"
+			"plane" "(4 -354 8) (4 -377 8) (4 -377 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[0 1 0 64] 0.25"
 			"vaxis" "[0 0 -1 2.62424] 0.25"
@@ -3497,7 +3497,7 @@ world
 		side
 		{
 			"id" "1958"
-			"plane" "(-208 -354 7.99999) (4 -354 7.99999) (4 -354 164)"
+			"plane" "(-218 -354 8) (4 -354 8) (4 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 -350.742] 0.25"
 			"vaxis" "[0 0 -1 2.62424] 0.25"
@@ -3508,7 +3508,7 @@ world
 		side
 		{
 			"id" "1957"
-			"plane" "(4 -377 7.99999) (-208 -377 7.99999) (-208 -377 164)"
+			"plane" "(4 -377 8) (-218 -377 8) (-218 -377 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 -350.742] 0.25"
 			"vaxis" "[0 0 -1 2.62424] 0.25"
@@ -3529,7 +3529,7 @@ world
 		side
 		{
 			"id" "1974"
-			"plane" "(-273 -377 164) (-273 -354 164) (-208 -354 164)"
+			"plane" "(-273 -377 164) (-273 -354 164) (-218 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 497.258] 0.25"
 			"vaxis" "[0 -1 0 -25.17] 0.25"
@@ -3540,7 +3540,7 @@ world
 		side
 		{
 			"id" "1973"
-			"plane" "(-273 -354 123) (-273 -377 123) (-208 -377 123)"
+			"plane" "(-273 -354 114) (-273 -377 114) (-218 -377 114)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 497.258] 0.25"
 			"vaxis" "[0 -1 0 -25.17] 0.25"
@@ -3551,7 +3551,7 @@ world
 		side
 		{
 			"id" "1972"
-			"plane" "(-273 -377 123) (-273 -354 123) (-273 -354 164)"
+			"plane" "(-273 -377 114) (-273 -354 114) (-273 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[0 1 0 25.17] 0.25"
 			"vaxis" "[0 0 -1 217.264] 0.25"
@@ -3562,7 +3562,7 @@ world
 		side
 		{
 			"id" "1971"
-			"plane" "(-208 -354 123) (-208 -377 123) (-208 -377 164)"
+			"plane" "(-218 -354 114) (-218 -377 114) (-218 -377 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[0 1 0 25.17] 0.25"
 			"vaxis" "[0 0 -1 217.264] 0.25"
@@ -3573,7 +3573,7 @@ world
 		side
 		{
 			"id" "1970"
-			"plane" "(-273 -354 123) (-208 -354 123) (-208 -354 164)"
+			"plane" "(-273 -354 114) (-218 -354 114) (-218 -354 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 497.258] 0.25"
 			"vaxis" "[0 0 -1 217.264] 0.25"
@@ -3584,7 +3584,7 @@ world
 		side
 		{
 			"id" "1969"
-			"plane" "(-208 -377 123) (-273 -377 123) (-273 -377 164)"
+			"plane" "(-218 -377 114) (-273 -377 114) (-273 -377 164)"
 			"material" "CONCRETE/CONCRETE_EXT_13"
 			"uaxis" "[1 0 0 497.258] 0.25"
 			"vaxis" "[0 0 -1 217.264] 0.25"
@@ -4951,7 +4951,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "255 -244 9"
+	"origin" "255 -244 8"
 	editor
 	{
 		"color" "255 255 0"
@@ -4997,7 +4997,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "285 -244 9.21761"
+	"origin" "285 -244 8.21761"
 	editor
 	{
 		"color" "255 255 0"
@@ -5097,7 +5097,7 @@ entity
 	"classname" "prop_door_rotating_checkpoint"
 	"ajarangles" "0 0 0"
 	"angles" "0 90 0"
-	"axis" "-208 -370 62, -208 -370 62"
+	"axis" "-218 -370 62, -218 -370 62"
 	"body" "1"
 	"disableshadows" "1"
 	"distance" "90"
@@ -5115,7 +5115,7 @@ entity
 	"spawnflags" "8192"
 	"speed" "200"
 	"targetname" "checkpoint_exit"
-	"origin" "-208 -370 62"
+	"origin" "-218 -370 62"
 	editor
 	{
 		"color" "220 30 220"
@@ -6062,6 +6062,7 @@ entity
 	"fadescale" "1"
 	"model" "models/props/de_nuke/wall_light.mdl"
 	"skin" "0"
+	"spawnflags" "0"
 	"origin" "246 -114 163"
 	editor
 	{
@@ -6247,7 +6248,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "262 -152 17"
+	"origin" "262 -152 8"
 	editor
 	{
 		"color" "255 255 0"
@@ -6270,7 +6271,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "348 -12 25"
+	"origin" "348 -12 26"
 	editor
 	{
 		"color" "255 255 0"
@@ -6385,7 +6386,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "231 -61 17"
+	"origin" "231 -61 8"
 	editor
 	{
 		"color" "255 255 0"
@@ -6523,7 +6524,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "204.136 29.1871 7.2176"
+	"origin" "204.136 29.1871 8.2176"
 	editor
 	{
 		"color" "255 255 0"
@@ -6723,7 +6724,7 @@ entity
 	"rendercolor" "255 255 255"
 	"skin" "0"
 	"solid" "6"
-	"origin" "408 38 9"
+	"origin" "408 38 8"
 	editor
 	{
 		"color" "255 255 0"
@@ -6960,6 +6961,29 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 11000]"
+	}
+}
+entity
+{
+	"id" "23963"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "1"
+	"disablevertexlighting" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"model" "models/props_unique/showercurtain01.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"skin" "0"
+	"solid" "0"
+	"origin" "13 -113 113"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
